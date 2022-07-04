@@ -1,3 +1,4 @@
 # ML
-HW4:non-parametric density estimation: parzen window and mlp methode;
+HW3:non-parametric density estimation: parzen window and mlp methode;
 HW4: svm with different kernels and hyper parameters, ensambled learning
+HW5: PCA, SFS, SBS, GMM
